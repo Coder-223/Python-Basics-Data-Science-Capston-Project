@@ -1,3 +1,3 @@
-# Python Basics for Data Science Final Proj
+# Python Basics Data Science Capstone Project
 
-This project was created for the IBM Python Basics for Data Science Course
+This project was created for the IBM Python Basics Data Science Capstone Project
