@@ -1,3 +1,3 @@
-# Python-DS-Project
+# Python Basics for Data Science Final Proj
 
-This project was created for the IBM Python for Data Science Course
+This project was created for the IBM Python Basics for Data Science Course
